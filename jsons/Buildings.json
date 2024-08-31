@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Divine Gate",
+		"cost": 3,
+		"requiredTech": "Agriculture",
+	    "isNationalWonder": true,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": ["Reveals the entire map","Moves to new capital when capital changes"],
+		"quote": "God Mode (cheats) Activated!"
+	},
+	{
+		"name": "Divine Mint",
+		"cost": 3,
+	    "gold": 999,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": ["Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Marketing HQ",
+		"cost": 3,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": ["[-10]% Gold cost of acquiring tiles [in all cities]","[Gold] cost of purchasing items in cities [-10]%","[Gold] cost of purchasing [All] buildings [-20]%","[Gold] cost of purchasing [All] units [-10]%","[-10]% Gold cost of upgrading","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Tome Museum",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": ["Discover [Pottery]","Discover [Animal Husbandry]","Discover [Archery]","Discover [Mining]","Discover [Sailing]","Discover [Calendar]","Discover [Writing]","Discover [Trapping]","Discover [The Wheel]","Discover [Masonry]","Discover [Bronze Working]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Cybernetics Lab",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": ["[+2] Movement <for [All] units>","[+30]% Strength <for [All] units>","[+20]% to Flank Attack bonuses","[+50]% XP gained from combat","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Corporate HQ",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": ["[50]% [Production] [in all cities]","[50]% [Food] [in all cities]","[50]% [Happiness] [in all cities]","[50]% [Science] [in all cities]","[50]% [Culture] [in all cities]","Quantity of strategic resources produced by the empire +[50]%","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Defense Tower",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": ["[+100]% City Strength from defensive buildings","[+50]% Strength for cities","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Agency HQ",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": ["Hidden until [1] social policy branches have been completed","[+100]% Great Person generation [in all cities]","Moves to new capital when capital changes"]
+	}
+]
