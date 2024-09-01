@@ -2,17 +2,18 @@
 	{
 		"name": "Divine Gate",
 		"cost": 3,
-		"requiredTech": "Agriculture",
-	    "isNationalWonder": true,
+		"requiredTech": "God Mode",
+		"isNationalWonder": true,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": ["Reveals the entire map","Moves to new capital when capital changes"],
-		"quote": "God Mode (cheats) Activated!"
+		"quote": "You have made your choice. God Mode (cheats) Activated!"
 	},
 	{
 		"name": "Divine Mint",
 		"cost": 3,
-	    "gold": 999,
+		"gold": 1999,
+		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -21,14 +22,16 @@
 	{
 		"name": "Marketing HQ",
 		"cost": 3,
+		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
-		"uniques": ["[-10]% Gold cost of acquiring tiles [in all cities]","[Gold] cost of purchasing items in cities [-10]%","[Gold] cost of purchasing [All] buildings [-20]%","[Gold] cost of purchasing [All] units [-10]%","[-10]% Gold cost of upgrading","Moves to new capital when capital changes"]
+		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]","[Gold] cost of purchasing items in cities [-50]%","[Gold] cost of purchasing [All] buildings [-50]%","[Gold] cost of purchasing [All] units [-50]%","[-50]% Gold cost of upgrading","Moves to new capital when capital changes"]
 	},
 	{
 		"name": "Tome Museum",
 		"cost": 5,
+		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -37,14 +40,16 @@
 	{
 		"name": "Cybernetics Lab",
 		"cost": 5,
+		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
-		"uniques": ["[+2] Movement <for [All] units>","[+30]% Strength <for [All] units>","[+20]% to Flank Attack bonuses","[+50]% XP gained from combat","Moves to new capital when capital changes"]
+		"uniques": ["[+2] Movement <for [All] units>","[+50]% Strength <for [All] units>","[+50]% to Flank Attack bonuses","[+50]% XP gained from combat","Moves to new capital when capital changes"]
 	},
 	{
 		"name": "Corporate HQ",
 		"cost": 5,
+		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -53,14 +58,16 @@
 	{
 		"name": "Defense Tower",
 		"cost": 5,
+		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
-		"uniques": ["[+100]% City Strength from defensive buildings","[+50]% Strength for cities","Destroyed when the city is captured"]
+		"uniques": ["[+100]% City Strength from defensive buildings","[+100]% Strength for cities","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Agency HQ",
 		"cost": 5,
+		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",

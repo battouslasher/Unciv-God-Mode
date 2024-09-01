@@ -1,0 +1,15 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 999999,
+		"buildingCost": 1,
+		"techs": [
+			{
+				"name": "God Mode",
+				"row": 10,
+				"quote": "'Cheating isn't a mistake; it's a CHOICE!' - Vi Keeland"
+			}
+		]
+	}
+]
