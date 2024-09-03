@@ -5,7 +5,7 @@ Works ONLY with UNCIV: Civ V - Vanilla and Civ V - Gods & Kings in both PC and A
 
 NOTE: Due to the method the mods are parsed into the game, it can't comprehend the logic when starting a game and will issue warnings. You can IGNORE these warnings. The mod will work just fine. Also, I did not add new graphics for the new cheats I added.
 
-CHANGELOG:
+CHANGELOG (I will try to keep this short):
 UPDATE 2024-09-03: Added a new set of cheats to COMPLETELY RUSH the entire tech tree by era. The mod will detect if you are using Vanilla or Gods & Kings and will apply the appropriate cheats. They will require a "previous era" cheat to be built/activated.
 
 UPDATE 2024-09-01: So, I messed up version 1.0. After a few dozen games, I realized I had made a mistake. I guess the original idea from Tonedome was the best move because my simplification allowed the AI to build the Divine Gate as well and use God Mode. So, I have updated this mod to version 1.01 and put the Angel unit back which only the player gets as a bonus unit. This way, the AI will never be able to build the Divine Gate unless I am overlooking something again.
