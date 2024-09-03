@@ -20,7 +20,7 @@
 		"uniques": ["Moves to new capital when capital changes"]
 	},
 	{
-		"name": "Marketing HQ",
+		"name": "Planning HQ",
 		"cost": 3,
 		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
@@ -36,6 +36,136 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": ["Discover [Pottery]","Discover [Animal Husbandry]","Discover [Archery]","Discover [Mining]","Discover [Sailing]","Discover [Calendar]","Discover [Writing]","Discover [Trapping]","Discover [The Wheel]","Discover [Masonry]","Discover [Bronze Working]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Dead Sea Scrolls",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Tome Museum",
+		"uniques": ["Only available <if [Civ V - Vanilla] is enabled>","Discover [Optics]","Discover [Philosophy]","Discover [Horseback Riding]","Discover [Mathematics]","Discover [Construction]","Discover [Iron Working]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Magister Shop",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Dead Sea Scrolls",
+		"uniques": ["Only available <if [Civ V - Vanilla] is enabled>","Discover [Theology]","Discover [Civil Service]","Discover [Currency]","Discover [Engineering]","Discover [Metal Casting]","Discover [Compass]","Discover [Education]","Discover [Chivalry]","Discover [Machinery]","Discover [Physics]","Discover [Steel]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Gutenberg Co",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Magister Shop",
+		"uniques": ["Only available <if [Civ V - Vanilla] is enabled>","Discover [Astronomy]","Discover [Acoustics]","Discover [Banking]","Discover [Printing Press]","Discover [Gunpowder]","Discover [Navigation]","Discover [Economics]","Discover [Chemistry]","Discover [Metallurgy]","Discover [Archaeology]","Discover [Scientific Theory]","Discover [Military Science]","Discover [Fertilizer]","Discover [Rifling]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Machine Shop",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Gutenberg Co",
+		"uniques": ["Only available <if [Civ V - Vanilla] is enabled>","Discover [Biology]","Discover [Steam Power]","Discover [Dynamite]","Discover [Electricity]","Discover [Replaceable Parts]","Discover [Railroads]","Discover [Refrigeration]","Discover [Telegraph]","Discover [Radio]","Discover [Flight]","Discover [Combustion]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "CERN Institute",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Machine Shop",
+		"uniques": ["Only available <if [Civ V - Vanilla] is enabled>","Discover [Pharmaceuticals]","Discover [Plastics]","Discover [Electronics]","Discover [Mass Media]","Discover [Radar]","Discover [Atomic Theory]","Discover [Ecology]","Discover [Computers]","Discover [Rocketry]","Discover [Lasers]","Discover [Nuclear Fission]","Discover [Globalization]","Discover [Robotics]","Discover [Satellites]","Discover [Stealth]","Discover [Advanced Ballistics]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Spacedock",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "CERN Institute",
+		"uniques": ["Only available <if [Civ V - Vanilla] is enabled>","Discover [Particle Physics]","Discover [Nuclear Fusion]","Discover [Nanotechnology]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Hephaestus Shop",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Tome Museum",
+		"uniques": ["Only available <if [Civ V - Gods & Kings] is enabled>","Discover [Optics]","Discover [Horseback Riding]","Discover [Mathematics]","Discover [Construction]","Discover [Philosophy]","Discover [Drama and Poetry]","Discover [Currency]","Discover [Engineering]","Discover [Iron Working]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Camelot Labs",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Hephaestus Shop",
+		"uniques": ["Only available <if [Civ V - Gods & Kings] is enabled>","Discover [Theology]","Discover [Civil Service]","Discover [Guilds]","Discover [Metal Casting]","Discover [Compass]","Discover [Education]","Discover [Chivalry]","Discover [Machinery]","Discover [Physics]","Discover [Steel]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Gutenberg Corp",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Camelot Labs",
+		"uniques": ["Only available <if [Civ V - Gods & Kings] is enabled>","Discover [Astronomy]","Discover [Acoustics]","Discover [Banking]","Discover [Printing Press]","Discover [Gunpowder]","Discover [Navigation]","Discover [Architecture]","Discover [Economics]","Discover [Metallurgy]","Discover [Chemistry]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Tesla Foundation",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Gutenberg Corp",
+		"uniques": ["Only available <if [Civ V - Gods & Kings] is enabled>","Discover [Archaeology]","Discover [Scientific Theory]","Discover [Industrialization]","Discover [Rifling]","Discover [Military Science]","Discover [Fertilizer]","Discover [Biology]","Discover [Electricity]","Discover [Steam Power]","Discover [Dynamite]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "War Machine",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Tesla Foundation",
+		"uniques": ["Only available <if [Civ V - Gods & Kings] is enabled>","Discover [Refrigeration]","Discover [Radio]","Discover [Replaceable Parts]","Discover [Flight]","Discover [Railroads]","Discover [Plastics]","Discover [Electronics]","Discover [Ballistics]","Discover [Combustion]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Relativity Study",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "War Machine",
+		"uniques": ["Only available <if [Civ V - Gods & Kings] is enabled>","Discover [Pharmaceuticals]","Discover [Atomic Theory]","Discover [Radar]","Discover [Combined Arms]","Discover [Ecology]","Discover [Nuclear Fission]","Discover [Rocketry]","Discover [Computers]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Hollywood Studios",
+		"cost": 10,
+		"requiredTech": "God Mode",
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Relativity Study",
+		"uniques": ["Only available <if [Civ V - Gods & Kings] is enabled>","Discover [Telecommunications]","Discover [Mobile Tactics]","Discover [Advanced Ballistics]","Discover [Satellites]","Discover [Robotics]","Discover [Lasers]","Discover [Globalization]","Discover [Particle Physics]","Discover [Nuclear Fusion]","Discover [Nanotechnology]","Discover [Stealth]","Moves to new capital when capital changes"]
 	},
 	{
 		"name": "Cybernetics Lab",
