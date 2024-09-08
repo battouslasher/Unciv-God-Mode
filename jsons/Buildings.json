@@ -6,7 +6,7 @@
 		"isNationalWonder": true,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
-		"uniques": ["Reveals the entire map","Moves to new capital when capital changes"],
+		"uniques": ["Moves to new capital when capital changes"],
 		"quote": "You have made your choice. God Mode (cheats) Activated!"
 	},
 	{
