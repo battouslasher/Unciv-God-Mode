@@ -8,7 +8,8 @@
 			{
 				"name": "God Mode",
 				"row": 10,
-				"quote": "'Cheating isn't a mistake; it's a CHOICE!' - Vi Keeland"
+				"quote": "'Cheating isn't a mistake; it's a CHOICE!' - Vi Keeland",
+				"uniques": ["Reveals the entire map"]
 			}
 		]
 	}
