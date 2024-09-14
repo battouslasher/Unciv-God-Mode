@@ -2,7 +2,7 @@
 	{
 		"name": "Angel",
 		"unitType": "Civilian",
-		"uniques": ["[1] Free Technologies <by consuming this unit>","Unbuildable","Uncapturable"],
+		"uniques": ["Gain a free [Divine Gate] [in capital] <by consuming this unit>","Unbuildable","Uncapturable","Reveals the entire map"],
 		"movement": 2
 	}
 ]

@@ -2,7 +2,6 @@
 	{
 		"name": "Divine Gate",
 		"cost": 3,
-		"requiredTech": "God Mode",
 		"isNationalWonder": true,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
@@ -13,7 +12,6 @@
 		"name": "Divine Mint",
 		"cost": 3,
 		"gold": 1999,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -22,7 +20,6 @@
 	{
 		"name": "Planning HQ",
 		"cost": 3,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -31,7 +28,6 @@
 	{
 		"name": "Tome Museum",
 		"cost": 5,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -40,7 +36,6 @@
 	{
 		"name": "Dead Sea Scrolls",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -50,7 +45,6 @@
 	{
 		"name": "Magister Shop",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -60,7 +54,6 @@
 	{
 		"name": "Gutenberg Co",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -70,7 +63,6 @@
 	{
 		"name": "Machine Shop",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -80,7 +72,6 @@
 	{
 		"name": "CERN Institute",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -90,7 +81,6 @@
 	{
 		"name": "Spacedock",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -100,7 +90,6 @@
 	{
 		"name": "Hephaestus Shop",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -110,7 +99,6 @@
 	{
 		"name": "Camelot Labs",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -120,7 +108,6 @@
 	{
 		"name": "Gutenberg Corp",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -130,7 +117,6 @@
 	{
 		"name": "Tesla Foundation",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -140,7 +126,6 @@
 	{
 		"name": "War Machine",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -150,7 +135,6 @@
 	{
 		"name": "Relativity Center",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -160,7 +144,6 @@
 	{
 		"name": "Hollywood Studios",
 		"cost": 10,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -170,7 +153,6 @@
 	{
 		"name": "Cybernetics Lab",
 		"cost": 5,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -179,7 +161,6 @@
 	{
 		"name": "Corporate HQ",
 		"cost": 5,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -188,7 +169,6 @@
 	{
 		"name": "Defense Tower",
 		"cost": 5,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
@@ -197,7 +177,6 @@
 	{
 		"name": "Agency HQ",
 		"cost": 5,
-		"requiredTech": "God Mode",
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
