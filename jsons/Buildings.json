@@ -1,9 +1,9 @@
 [
 	{
 		"name": "Divine Gate",
-		"cost": 3,
+		"cost": 999999,
 		"isNationalWonder": true,
-		"hurryCostModifier": 1,
+		"hurryCostModifier": 1000,
 		"maintenance": 0,
 		"uniques": ["Moves to new capital when capital changes"],
 		"quote": "You have made your choice. God Mode (cheats) Activated!"
